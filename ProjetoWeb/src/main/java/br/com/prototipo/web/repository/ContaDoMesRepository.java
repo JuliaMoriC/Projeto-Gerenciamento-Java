@@ -1,0 +1,1 @@
+package br.com.prototipo.web.repository; import br.com.prototipo.web.entity.ContaDoMes; import org.springframework.data.jpa.repository.JpaRepository; public interface ContaDoMesRepository extends JpaRepository<ContaDoMes,Long>{}
